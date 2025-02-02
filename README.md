@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="🐍 animation" />
+  <a href="https://github.com/1999AZZAR">
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="🐍 animation" />
   </a>
 </div>
 
@@ -96,3 +96,4 @@
 
 📝 Credits: [Ebrahim Mostafa](https://github.com/Ebrahim-Mostafa)  
 🕒 Last Edited on: 04/01/2023
+
