@@ -15,9 +15,10 @@ Detail-oriented Automation Architect and DevOps Engineer with a proven track rec
 Dubai, United Arab Emirates  
 📞 Phone: +201112788022  
 📞 Phone: +971581826891  
-📧 Email: ebrahim.mostafa.1993@gmail.com  
-https://www.linkedin.com/in/ebrahim-mostafa/  
-https://github.com/Ebrahim-Mostafa/
+📧 Email: ebrahim.mostafa.1993@gmail.com
+
+- 👔 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa/)
+- 💻 [GitHub](https://github.com/Ebrahim-Mostafa/)
 
 ## Experience
 
