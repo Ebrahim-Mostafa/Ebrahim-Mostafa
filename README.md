@@ -1,5 +1,5 @@
 # EBRAHIM MOSTAFA
-**SOFTWARE DEVELOPER ENGINEER IN TEST**
+**SENIOR SOFTWARE DEVELOPER ENGINEER IN TEST**
 
 ## Profile Summary
 Detail-oriented Automation Architect and DevOps Engineer with a proven track record in building scalable test automation frameworks and optimizing CI/CD pipelines for cloud-native applications. Specialized in integrating AI-driven solutions to enhance testing efficiency, reduce manual intervention, and accelerate software delivery. Experienced with Kubernetes (EKS), Jenkins Shared Libraries, Terraform, and advanced scripting in Python and Groovy. Adept at driving automation across microservices, implementing DevSecOps best practices, and integrating tools like QMetry for intelligent reporting. Passionate about leveraging AI and automation to deliver high-quality, secure, and reliable software at scale.
