@@ -19,6 +19,7 @@ Dubai, United Arab Emirates
 
 - 👔 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa/)
 - 💻 [GitHub](https://github.com/Ebrahim-Mostafa/)
+- 💻 [Gitlab](https://gitlab.com/ebrahim.mostafa.1993)
 
 ## Experience
 
