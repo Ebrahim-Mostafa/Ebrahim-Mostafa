@@ -63,6 +63,7 @@ Previously worked at:
 
 - 📧 Email: ebrahim.mostafa.1993@gmail.com
 - 📱 Phone: +971581826891
+- 📱 Phone: +201112788022 
 
 ## 🌐 Portfolio Projects
 
